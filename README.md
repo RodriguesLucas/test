@@ -1,2 +1,1 @@
-# test
-Aprendendo a usar o github
+# Listas dinâmicas em python.
